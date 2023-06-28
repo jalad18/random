@@ -7,6 +7,8 @@ Things you may want to cover:
 
 * Ruby version
 
+* Jalad committed this file
+
 * System dependencies
 
 * Configuration
